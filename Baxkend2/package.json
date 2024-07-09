@@ -1,0 +1,16 @@
+{
+  "name": "y",
+  "version": "1.0.1",
+  "description": "",
+  "main": "server.js",
+  "type":"module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "i": "^0.3.7"
+  }
+}
